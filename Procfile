@@ -1,1 +1,1 @@
-web: /build/libs/chuck_joke.jar 
+web: /build/scripts/chuck_joke
