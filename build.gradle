@@ -16,4 +16,6 @@ dependencies {
     compile 'com.sparkjava:spark-core:2.3'
 }
 
-task stage(dependsOn: ['clean', 'installApp'])
+task stage {
+      dependsOn installDist
+}
