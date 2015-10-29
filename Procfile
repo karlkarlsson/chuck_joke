@@ -1,1 +1,1 @@
-web: /build/scripts/chuck_joke
+web: ./gradlew run
