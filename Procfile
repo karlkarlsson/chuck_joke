@@ -1,1 +1,1 @@
-web: ./bin/move
+web: ./gradlew run
