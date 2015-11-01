@@ -25,7 +25,7 @@ public class Chuck {
     }
 
     public void alterName(String firstName, String lastName) {
-        client.setFirstName(firstName);
+        client.setFirstName("Kalli");
         client.setLastName(lastName);
     }
 }
